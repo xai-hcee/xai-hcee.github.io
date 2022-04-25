@@ -1,4 +1,4 @@
-# The First Workshop on Dynamic Adversarial Data Collection (DADC)
+# Tutorial on Human-centered Explanation Evaluation for XAI
 -----------------------------------------------------------------------------
 
 ## Latest News: 
