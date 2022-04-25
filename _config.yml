@@ -1,21 +1,16 @@
 ---
-port: 4000
-host: 0.0.0.0
-safe: false
-
 exclude: [README.md, .gitignore]
 timezone: null
 lsi: false
 markdown: kramdown
 
 ### content configuration ###
-title:       "Dynamic Adversarial Data Collection"
+title:       "Human-centered Explanation Evaluation"
 keywords:    ""
-description: "The First Workshop on Dynamic Adversarial Data Collection (DADC) at <a href='https://2022.naacl.org/' target='_blank'>NAACL 2022</a> in Seattle, Washington."
+description: "Tutorial on human-centered explanation evaluation for XAI at <a href='https://2022.naacl.org/' target='_blank'>NAACL 2022</a> in Seattle, Washington."
 logo:     "img/logo.png"
 favicon:     "img/favicon/favicon.ico"
 touch_icon:  "img/favicon/apple-touch-icon.png"
-google_analytics: "G-KRG38PMVXV"
 
 collections:
   - pages_2022
