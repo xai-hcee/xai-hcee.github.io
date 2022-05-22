@@ -29,37 +29,37 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
         <div style="margin-bottom:40px"><center><b>Jordan Boyd-Graber</b><br>UMD</center></div>
     </div>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
     <div class="profile height150">
         <div><a href="https://shcarton.github.io"><img class="avatar-img" width=150 src="images/sam.jpeg"> </a></div>
         <div style="margin-bottom:40px"><center><b>Samuel Carton</b><br>UChicago</center></div>
     </div>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
     <div class="profile height150">
         <div><a href="http://www.shifeng.umiacs.io/"><img class="avatar-img" width=150 src="images/shi.jpeg"></a></div>
         <div style="margin-bottom:40px"><center><b>Shi Feng</b><br>UChicago</center></div>
     </div>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
     <div class="profile height150">
         <div><a href="http://www.qveraliao.com"><img class="avatar-img" width=150 src="images/vera.jpg"></a></div>
         <div style="margin-bottom:40px"><center><b>Q. Vera Liao</b><br>Microsoft</center></div>
     </div>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
     <div class="profile height150">
         <div><a href="http://cognition.princeton.edu/"><img class="avatar-img" width=150 src="images/tania.jpg"></a></div>
         <div style="margin-bottom:40px"><center><b>Tania Lombrozo</b><br>Princeton</center></div>
     </div>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
     <div class="profile height150">
         <div><a href="https://alisonmsmith.github.io"><img class="avatar-img" width=150 src="images/alison.jpg"></a></div>
         <div style="margin-bottom:40px"><center><b>Alison Smith-Renner</b><br>Dataminr</center></div>
     </div>
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
     <div class="profile height150">
         <div><a href="https://chenhaot.com"><img class="avatar-img" width=150 src="images/chenhao.jpeg"></a></div>
         <div style="margin-bottom:40px"><center><b>Chenhao Tan</b><br>UChicago</center></div>
