@@ -23,8 +23,8 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 
 ## Speakers
 
-<div class="col-md-3">
-    <div class="profile">
+<div class="col-md-2">
+    <div class="profile height150">
         <div><a href="http://boydgraber.org/"><img class="avatar-img" width=150 src="images/jordan.png"></a></div>
         <div style="margin-bottom:40px"><center><b>Jordan Boyd-Graber</b><br>UMD</center></div>
     </div>
