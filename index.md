@@ -32,7 +32,7 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 
 <div class="col-md-3">
     <div class="profile height150">
-        <div><a href="https: //shcarton.github.io"><img class="avatar-img" width=150 src="images/sam.jpeg"> </a></div>
+        <div><a href="https://shcarton.github.io"><img class="avatar-img" width=150 src="images/sam.jpeg"> </a></div>
         <div style="margin-bottom:40px"><center><b>Samuel Carton</b><br>UChicago</center></div>
     </div>
 </div>
@@ -45,7 +45,7 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 
 <div class="col-md-3">
     <div class="profile height150">
-        <div><a href="http://www.qveraliao.com"><img class="avatar-img" width=150 src="images/vera.jpeg"></a></div>
+        <div><a href="http://www.qveraliao.com"><img class="avatar-img" width=150 src="images/vera.jpg"></a></div>
         <div style="margin-bottom:40px"><center><b>Q. Vera Liao</b><br>Microsoft</center></div>
     </div>
 </div>
