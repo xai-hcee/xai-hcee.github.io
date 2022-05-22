@@ -1,153 +1,72 @@
-# Tutorial on Human-centered Explanation Evaluation for XAI
------------------------------------------------------------------------------
+---
+layout: page
+title: simple site
+tagline: Easy websites with GitHub Pages
+description: Minimal tutorial on making a simple website with GitHub Pages
+---
 
-## Latest News: 
-* **April 7, 2022**: Following extensions by other NAACL workshops, we have also decided to extend the submission deadline for papers from April 8 to April 15. We look forward to your submissions! Submit at [https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"}. 
-* **March 29, 2022**: The [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"} is now open and accepting paper submissions!
-* **March 23, 2022**: The DADC Shared Task [Call for Participation](/shared-task.html) is now live! To register your team's interest, fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"}.
-* **February 14, 2022**: See our [Call for Papers here](/call-for-papers.html)!
+[Github Pages](https://pages.github.com) provide a simple way to make a
+website using
+[Markdown](https://daringfireball.net/projects/markdown/) and
+[git](https://git-scm.com).
 
-## The DADC Shared Task
-The DADC Shared Task this year will focus on the Extractive Question Answering (QA) task. We have three (3) tracks focusing on better annotators, better training data and better models.
+For me, the painful aspects of making a website are
 
-**Specific details and a call for participation can be found [here](/shared-task.html). Here's a quick overview:** 
+- Working with html and css
+- Finding a hosting site
+- Transferring stuff to the hosting site
 
-### Track 1: Better Annotators
-Participants will submit 100 "official" question answering (QA) examples through the [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"} platform. The collected dataset will form parts of the evaluation set for Tracks 2 and 3. The objective is to find as many model-fooling examples as possible -- the winning team will be the one with the highest validated model error rate (vMER).
+With [GitHub Pages](https://pages.github.com), you just write things in
+[Markdown](https://daringfireball.net/projects/markdown/),
+[GitHub](https://github.com) hosts the site for you, and you just push
+material to your GitHub repository with `git add`, `git commit`, and
+`git push`.
 
-If you think you have what it takes to fool our best AI model, [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} today!
+If you love [git](https://git-scm.com/) and
+[GitHub](https://github.com), you'll love
+[GitHub Pages](https://pages.github.com), too.
 
-### Track 2: Better Training Data
-In this data-centric track, participants will submit 10,000 **training** examples (in SQuAD v1.1 JSON format, see [https://huggingface.co/datasets/adversarial_qa#dataset-structure](https://huggingface.co/datasets/adversarial_qa#dataset-structure){:target="_blank"}). These examples can be selected from existing datasets, expert-annotated, crowdsourced, or synthetically-generated. The workshop organisers will then train ELECTRA-Large models and evaluate them on the data collected in Track 1. The team with the highest word-overlap F1 score on the test set will be considered the winner.    
+The sites use [Jekyll](https://jekyllrb.com/), a
+[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
+convert Markdown files to html, and this part is done
+automatically when you push the materials to the `gh-pages` branch
+of a GitHub repository.
 
-### Track 3: Better Models
-The workshop organisers have pre-specified a set of evaluation weights for the [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"} QA leaderboard. Participants can train any models on any data and submit their models directly to [Dynabench](https://dynabench.org/tasks/qa){:target="_blank"}. The team with the highest **dynascore** will be considered the winner.
+The [GitHub](https://pages.github.com) and
+[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
+would be useful to have a minimal tutorial, for those who just want to
+get going immediately with a simple site. To some readers, what GitHub
+has might be simpler and more direct.  But if you just want to create
+a site like the one you're looking at now, read on.
 
-### Overall
-Teams can choose to participate on individual tracks only. To further encourage the formation of diverse teams working on a range of challenges, we will also have an overall DADC Shared Task Winning Team based on performance across all 3 tracks.
+Start by reading the [Overview page](pages/overview.html), which
+explains the basic structure of these sites. Then read
+[how to make an independent website](pages/independent_site.html). Then
+read any of the other things, such as
+[how to test your site locally](pages/local_test.html).
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform" method="get" target="_blank"><button class="btn btn-success" type="submit">Sign up</button></form>
-<br />
+- [Overview](pages/overview.html)
+- [Making an independent website](pages/independent_site.html)
+- [Making a personal site](pages/user_site.html)
+- [Making a site for a project](pages/project_site.html)
+- [Making a jekyll-free site](pages/nojekyll.html)
+- [Testing your site locally](pages/local_test.html)
+- [Resources](pages/resources.html)
 
-## Submission Information
+If anything here is confusing (or _wrong_!), or if I've missed
+important details, please
+[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
+better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
+make modifications, and submit a pull request.
 
-The [OpenReview DADC workshop page](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/DADC){:target="_blank"} is now open and accepting paper submissions. 
-The paper commitment page for work already having ARR reviews will be coming shortly.
-Papers should follow the official [*ACL Paper Styles](https://github.com/acl-org/acl-style-files){:target="_blank"} and [paper formatting guidelines](https://acl-org.github.io/ACLPUB/formatting.html#paper-format){:target="_blank"} (also see [Overleaf template](https://www.overleaf.com/read/crtcwgxzjskr){:target="_blank"}).
+---
 
-For more information, refer to the [Call for Papers](/call-for-papers.html) page.
-<br />
+The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
 
-## Important Dates (Paper Submission)
-
-| <!-- -->                                         | <!-- -->                                               |
-| :----------------------------------------------- | :----------------------------------------------------- |
-| **February 14, 2022**                            | First [Call for Workshop Papers](call-for-papers.html) |
-| <del>April 8</del> **<ins>April 15</ins>, 2022** | Submission deadline (papers requiring peer review)     |
-| **May 1, 2022**                                  | Submission deadline (papers with ARR reviews)          |
-| **May 1, 2022**                                  | Submission deadline (non-archival papers)              |
-| **May 6, 2022**                                  | Notification of Acceptance                             |
-| **May 20, 2022**                                 | Camera-ready Papers Due                                |
-| **July 14-15, 2022**                             | Workshop Dates at NAACL 2022                           |
-
-## Important Dates (Shared Task)
-
-| <!-- -->             | <!-- -->                                                                                                                                            |
-| :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **April 25, 2022**   | [Team Registration](https://docs.google.com/forms/d/e/1FAIpQLSfKXEFdkgkvxzZfvtT7EXhmzHjpzTYldca76Fd4P8APfvyGBA/viewform){:target="_blank"} Deadline |
-| **May 2 - 15, 2022** | Official Example Creation Window for [Track 1](/shared-task.html#track-1-better-annotators)                                                         |
-| **June 3, 2022**     | [Track 2](/shared-task.html#track-2-better-training-data) Submission Deadline                                                                       |
-| **June 3, 2022**     | [Track 3](/shared-task.html#track-3-better-models) Submission Deadline                                                                              |
-| **June 10, 2022**    | System Description Paper (Optional) Submission Deadline                                                                                             |
-| **June 17, 2022**    | System Description Paper Notification of Acceptance                                                                                                 |
-| **June 17, 2022**    | Results Announced                                                                                                                                   |
-| **June 24, 2022**    | System Description Paper Camera-Ready Deadline                                                                                                      |
-| **July 14-15, 2022** | Workshop Dates & Overall Winning Team Announcement 🏆                                                                                                |
-
-<br />
-
-
-## Organizers
-
-
-### Core Team
-
-* [Max Bartolo](http://bartolo.ai/){:target="_blank"}
-* [Hannah Rose Kirk](https://www.hannahrosekirk.com/){:target="_blank"}
-* [Pedro Rodriguez](https://www.pedro.ai){:target="_blank"}
-* [Katerina Margatina](https://katerinamargatina.github.io/){:target="_blank"}
-* [Tristan Thrush](http://www.tristanthrush.com/){:target="_blank"}
-* [Mimansa Jaiswal](https://mimansajaiswal.github.io/){:target="_blank"}
-
-### Advisory Committee
-
-* [Pontus Stenetorp](https://pontus.stenetorp.se/){:target="_blank"}
-* [Robin Jia](https://robinjia.github.io/){:target="_blank"}
-* [Adina Williams](https://wp.nyu.edu/adinawilliams/){:target="_blank"}
-* [Douwe Kiela](https://douwekiela.github.io/){:target="_blank"}
-
-[//]: # (### Program Committee)
-
-[//]: # ()
-[//]: # (* Shi Feng)
-
-[//]: # (* Paul Röttger)
-
-[//]: # (* Chen Zhao)
-
-[//]: # (* Maharshi Gor)
-
-[//]: # (* Johnny Wei)
-
-[//]: # (* Maximilian Mozes)
-
-[//]: # (* Joe Barrow)
-
-[//]: # (* Yixin Nie)
-
-[//]: # (* Candace Ross)
-
-[//]: # (* Mohit Bansal)
-
-[//]: # (* Bertram Vidgen)
-
-[//]: # (* Scott Hale)
-
-[//]: # (* Zeerak Talat)
-
-[//]: # (* Amanpreet Singh)
-
-[//]: # (* Atticus Geiger)
-
-[//]: # (* Christopher Potts)
-
-[//]: # (* Ethan Perez)
-
-[//]: # (* Scott Yih)
-
-[//]: # (* Sebastian Riedel)
-
-[//]: # (* Eric Wallace)
-
-[//]: # (* Joao Sedoc)
-
-[//]: # (* John P. Lalor)
-
-[//]: # (* Phu Mon Htut)
-
-## Contact
-
-Please join our [mailing list](https://groups.google.com/u/0/g/dadc-workshop){:target="_blank"} to get important updates. If you have any questions, please contact `dadc-workshop@googlegroups.com`.
-
-<hr />
-
-## Sponsors
-We would like to thank our generous sponsors for their help and support.
-
-### Platinum Sponsors
-
-<a href="https://mlcommons.org/en/" target="_blank"><img src="/img/mlc_logo.png" width="300px" /></a>
-
-### Gold Sponsors
-
-<a href="https://ai.facebook.com/" target="_blank"><img src="/img/meta_logo.png"  width="300px"/></a>
+Also see my [tutorials](https://kbroman.org/tutorials) on
+[git/github](https://kbroman.org/github_tutorial),
+[GNU make](https://kbroman.org/minimal_make),
+[knitr](https://kbroman.org/knitr_knutshell),
+[R packages](https://kbroman.org/pkg_primer),
+[data organization](https://kbroman.org/dataorg),
+and [reproducible research](https://kbroman.org/steps2rr).
