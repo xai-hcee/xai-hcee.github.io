@@ -1,8 +1,8 @@
 # Site settings
-title: "Human-centered Evaluations of Explanations"
-#email: "robustnlp-tutorial@googlegroups.com"
+title: "Robustness and Adversarial Examples in NLP"
+email: "robustnlp-tutorial@googlegroups.com"
 baseurl: ""
-url: "xai-hcee.github.io"
+url: "robustnlp-tutorial.github.io"
 
 navbar-links:
     Overview: "/#overview"
