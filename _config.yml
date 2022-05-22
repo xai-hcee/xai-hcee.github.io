@@ -1,14 +1,14 @@
 # Site settings
-title: "Robustness and Adversarial Examples in NLP"
-email: "robustnlp-tutorial@googlegroups.com"
+title: "Human-centered Evaluations of Explanations"
+# email: "robustnlp-tutorial@googlegroups.com"
 baseurl: ""
-url: "robustnlp-tutorial.github.io"
+url: "xai-hcee.github.io"
 
 navbar-links:
     Overview: "/#overview"
-    Speakers: "/#speakers"
-    Outline: "/#outline"
+    Videos: "/#videos"
     Slides: "/#slides"
+    Speakers: "/#speakers"
     References: "references"
 
 #twitter_username: jekyllrb

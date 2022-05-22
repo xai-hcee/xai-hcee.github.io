@@ -1,12 +1,12 @@
 ---
-title: EMNLP 21 Tutorial on Robust NLP 
+title: NAACL 22 Tutorial on Human-centered Evaluations of Explanations
 layout: page
 permalink: /
 ---
 
 ## Ask/Vote on Questions
 
-Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/ucfbxrar).
+Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
 
 ## Overview
 
@@ -21,7 +21,11 @@ and data with a distribution shift. We will provide the audience with a holistic
 
 We will conclude the tutorial by outlining future research directions in this area.
 
-# Speakers
+## Videos
+
+## Slides
+
+## Speakers
 <div class="col-md-3">
     <div class="profile height150">
         <div><a href="http://kwchang.net"><img class="avatar-img" width=150 src="https://avatars2.githubusercontent.com/kaiweichang?v=3&s=400"></a></div>
