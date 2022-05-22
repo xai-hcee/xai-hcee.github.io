@@ -24,12 +24,11 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 ## Speakers
 
 <div class="col-md-3">
-    <div class="profile height150">
+    <div class="profile">
         <div><a href="http://boydgraber.org/"><img class="avatar-img" width=150 src="images/jordan.png"></a></div>
         <div style="margin-bottom:40px"><center><b>Jordan Boyd-Graber</b><br>UMD</center></div>
     </div>
 </div>
-
 <div class="col-md-3">
     <div class="profile height150">
         <div><a href="https://shcarton.github.io"><img class="avatar-img" width=150 src="images/sam.jpeg"> </a></div>
@@ -42,28 +41,24 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
         <div style="margin-bottom:40px"><center><b>Shi Feng</b><br>UChicago</center></div>
     </div>
 </div>
-
 <div class="col-md-3">
     <div class="profile height150">
         <div><a href="http://www.qveraliao.com"><img class="avatar-img" width=150 src="images/vera.jpg"></a></div>
         <div style="margin-bottom:40px"><center><b>Q. Vera Liao</b><br>Microsoft</center></div>
     </div>
 </div>
-
 <div class="col-md-3">
     <div class="profile height150">
         <div><a href="http://cognition.princeton.edu/"><img class="avatar-img" width=150 src="images/tania.jpg"></a></div>
         <div style="margin-bottom:40px"><center><b>Tania Lombrozo</b><br>Princeton</center></div>
     </div>
 </div>
-
 <div class="col-md-3">
     <div class="profile height150">
-        <div><a href="https://alisonmsmith.github.io"><img class="avatar-img" width=150 src="images/alison.jpeg"></a></div>
+        <div><a href="https://alisonmsmith.github.io"><img class="avatar-img" width=150 src="images/alison.jpg"></a></div>
         <div style="margin-bottom:40px"><center><b>Alison Smith-Renner</b><br>Dataminr</center></div>
     </div>
 </div>
-
 <div class="col-md-3">
     <div class="profile height150">
         <div><a href="https://chenhaot.com"><img class="avatar-img" width=150 src="images/chenhao.jpeg"></a></div>
