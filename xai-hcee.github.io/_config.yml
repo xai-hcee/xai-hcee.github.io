@@ -1,0 +1,19 @@
+# Site settings
+title: "Human-centered Evaluations of Explanations"
+#email: "robustnlp-tutorial@googlegroups.com"
+baseurl: ""
+url: "xai-hcee.github.io"
+
+navbar-links:
+    Overview: "/#overview"
+    Speakers: "/#speakers"
+    Outline: "/#outline"
+    Slides: "/#slides"
+    References: "references"
+
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
