@@ -8,7 +8,7 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 ## Overview
 
 - [Chapter 0: Introduction](https://xai-hcee.github.io/)
-- [Chapter 1: Psychological foundations of explanations](https://xai-hcee.github.io/)
+- [Chapter 1: Psychological foundations of explanations](https://xai-hcee.github.io/chapter_1.html)
 - [Chapter 2: Overview of XAI techniques](https://xai-hcee.github.io/)
 - [Chapter 3: Application-grounded human-subject evaluations](https://xai-hcee.github.io/)
 - [Chapter 4: Proxy evaluations through human-provided explanations](https://xai-hcee.github.io/)
