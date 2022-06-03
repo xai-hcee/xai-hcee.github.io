@@ -1,14 +1,14 @@
 ---
 title: NAACL 22 Tutorial on Human-centered Evaluations of Explanations
 layout: page
-permalink: /
+permalink: /chapter-1
 ---
 Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
 
 ## Overview
 
 - [Chapter 0: Introduction](https://xai-hcee.github.io/)
-- [Chapter 1: Psychological foundations of explanations](https://xai-hcee.github.io/)
+- [Chapter 1: Psychological foundations of explanations](https://xai-hcee.github.io/chapter-1)
 - [Chapter 2: Overview of XAI techniques](https://xai-hcee.github.io/)
 - [Chapter 3: Application-grounded human-subject evaluations](https://xai-hcee.github.io/)
 - [Chapter 4: Proxy evaluations through human-provided explanations](https://xai-hcee.github.io/)
