@@ -5,10 +5,10 @@ permalink: /chapter_1.html
 ---
 Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
 
-## Videos
+## Video
 
 ## Slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQObhZjgRpHPVStVU2V87P-E4LgsD764B2bY4CUOhOEhORPMXQOnKpmxmtoePFvBW81NDrCn3VaOAT8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1-ja7_-FeGT8n5NxjZ0RN_tUBUG0GZMhIkw8xOt3g_Tk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Speakers
 
