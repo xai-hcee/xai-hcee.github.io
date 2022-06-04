@@ -8,7 +8,7 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 ## Video
 
 ## Slides
-<iframe src="https://docs.google.com/presentation/d/1-ja7_-FeGT8n5NxjZ0RN_tUBUG0GZMhIkw8xOt3g_T/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1P-695YKCX2K_fxFXSlo4v4sycsHKVI3TwjSSy1nGIhM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Speakers
 
