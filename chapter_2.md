@@ -1,7 +1,7 @@
 ---
 title: NAACL 22 Tutorial on Human-centered Evaluations of Explanations
 layout: page
-permalink: /chapter_1.html
+permalink: /chapter_2.html
 ---
 Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
 
