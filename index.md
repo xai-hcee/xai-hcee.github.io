@@ -14,11 +14,6 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 - [Chapter 4: Proxy evaluations through human-provided explanations](https://xai-hcee.github.io/chapter_4.html)
 - [Chapter 5: Summary and future directions](https://xai-hcee.github.io/chapter_5.html)
 
-## Videos
-
-## Slides
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQObhZjgRpHPVStVU2V87P-E4LgsD764B2bY4CUOhOEhORPMXQOnKpmxmtoePFvBW81NDrCn3VaOAT8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
 ## Speakers
 
 <div class="col-md-4">
