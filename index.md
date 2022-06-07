@@ -7,6 +7,9 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 
 ## Overview
 
+The NLP community are increasingly interested in providing explanations for NLP models to help people make sense of model behavior and potentially improve human interaction with models. In addition to computational challenges in generating these explanations, evaluations of the generated explanations require human-centered perspectives and approaches. This tutorial will provide an overview of human-centered evaluations of explanations. First, we will give a brief introduction to the psychological foundation of explanations as well as types of NLP model explanations and their corresponding presentation, to provide the necessary background. We will then present a taxonomy of human-centered evaluation of explanations and dive into depth in the two categories: 1) evaluation with human-subjects studies; 2) evaluation based on human-annotated explanations. We will conclude by discussing future directions.
+
+Click on each chapter to view the video recording and the slides:
 - [Chapter 0: Introduction](https://xai-hcee.github.io/chapter_0.html)
 - [Chapter 1: Psychological foundations of explanations](https://xai-hcee.github.io/chapter_1.html)
 - [Chapter 2: Overview of XAI techniques](https://xai-hcee.github.io/chapter_2.html)
