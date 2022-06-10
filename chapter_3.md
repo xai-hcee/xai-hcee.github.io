@@ -24,6 +24,7 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
         <div style="margin-bottom:40px"><center><b>Alison Smith-Renner</b><br>Dataminr</center></div>
     </div>
 </div>
+</br>
 
 ## References
 - **Towards a rigorous science of interpretable machine learning**. *Doshi-Velez, F., & Kim, B.*. 2017. [[paper](https://arxiv.org/abs/1702.08608)]
