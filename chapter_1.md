@@ -14,18 +14,15 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 
 ## Speakers
 
+<div id="the whole thing" style="height:100%; width:100%" >
 <div class="col-md-4">
     <div class="profile height150">
         <div><a href="http://cognition.princeton.edu/"><img class="avatar-img" width=150 src="images/tania.jpg"></a></div>
         <div style="margin-bottom:40px"><center><b>Tania Lombrozo</b><br>Princeton</center></div>
     </div>
 </div>
-<div class="col-md-4">
 </div>
-<div class="col-md-4">
-</div>
-<div class="col-md-4">
-</div>
+
 
 ## References
 1. **Measuring individual differences in implicit cognition: the implicit association test**. *Anthony G. Greenwald, Debbie E. McGhee, Jordan L.K. Schwartz*. Journal of personality and social psychology 1998. [[paper](https://faculty.washington.edu/agg/pdf/Gwald_McGh_Schw_JPSP_1998.OCR.pdf)]
