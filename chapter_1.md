@@ -19,8 +19,9 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
         <div><a href="http://cognition.princeton.edu/"><img class="avatar-img" width=150 src="images/tania.jpg"></a></div>
         <div style="margin-bottom:40px"><center><b>Tania Lombrozo</b><br>Princeton</center></div>
     </div>
-    </br>
 </div>
+
+<br/><br/>
 
 ## References
 1. **Measuring individual differences in implicit cognition: the implicit association test**. *Anthony G. Greenwald, Debbie E. McGhee, Jordan L.K. Schwartz*. Journal of personality and social psychology 1998. [[paper](https://faculty.washington.edu/agg/pdf/Gwald_McGh_Schw_JPSP_1998.OCR.pdf)]
