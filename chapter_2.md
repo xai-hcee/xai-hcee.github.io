@@ -7,10 +7,13 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 
 ## Video
 
+### Part 1: Calibration
 <iframe width="960" height="569" src="https://www.youtube.com/embed/-OOJK9StLCk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### Part 2: Highlighting Important Words
 <iframe width="960" height="569" src="https://www.youtube.com/embed/MHxzQiE1vbI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### Part 3: Limitations
 <iframe width="960" height="569" src="https://www.youtube.com/embed/CrkyxXTiQYo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Slides
