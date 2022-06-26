@@ -7,6 +7,15 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 
 ## Video
 
+### Part 1: Application-Grounded Evaluation of Explanations
+<iframe width="960" height="569" src="https://www.youtube.com/embed/KXUd_ETGrDw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Part 2: Intro to Experimental Design for Human Subject Evaluations
+<iframe width="960" height="569" src="https://www.youtube.com/embed/Bwohqd9n49k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Part 3: Use Cases of Application-Grounded Evaluation with Human Subjects
+<iframe width="960" height="569" src="https://www.youtube.com/embed/TpuvPEDKcWY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Slides
 <iframe src="https://docs.google.com/presentation/d/1tDXNcEu4OZMlsUEMDcJFuH0IYNC8kb3TP-C4YCpb958/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

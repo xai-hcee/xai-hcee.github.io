@@ -7,7 +7,11 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 
 ## Video
 
+<iframe width="960" height="569" src="https://www.youtube.com/embed/-OOJK9StLCk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <iframe width="960" height="569" src="https://www.youtube.com/embed/MHxzQiE1vbI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<iframe width="960" height="569" src="https://www.youtube.com/embed/CrkyxXTiQYo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Slides
 <iframe src="https://docs.google.com/presentation/d/1Ps5B66OAsUjvNEg1uCB953qEB8SPfUrW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
