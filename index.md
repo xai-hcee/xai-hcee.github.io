@@ -9,7 +9,7 @@ permalink: /
 - Date: **July 10, 2022**
 - Schedule
 - - **1:30pm  - 2:00pm (30 min)** Q & A Session
-- - **2:00pm - 5:30pm (3.5 hrs)** Tutorial: Human-Centered Evaluation of Explanations
+- - **2:00pm - 5:30pm (3.5 hrs)** Tutorial
 - - **6:00pm - 6:45pm (45 min)** Q & A Session
 - Location: **Ballroom Columbia D**
 - NAACL page: [Human-Centered Evaluation of Explanations](https://2022.naacl.org/program/tutorials/#t4)
