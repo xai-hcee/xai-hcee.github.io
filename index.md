@@ -6,14 +6,14 @@ permalink: /
 
 ## Overview
 
-- Date: **July 10, 2022**
-- Schedule
-- - **1:30pm  - 2:00pm (30 min)** Q & A Session
-- - **2:00pm - 5:30pm (3.5 hrs)** Tutorial
-- - **6:00pm - 6:45pm (45 min)** Q & A Session
-- Location: **Ballroom Columbia D**
-- NAACL page: [Human-Centered Evaluation of Explanations](https://2022.naacl.org/program/tutorials/#t4)
-- Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
+- **Date**: July 10, 2022
+- **Schedule**
+- - 1:30pm - 2:00pm (30 min): Q & A Session
+- - 2:00pm - 5:30pm (3.5 hrs): Tutorial
+- - 6:00pm - 6:45pm (45 min): Q & A Session
+- **Location**: Ballroom Columbia D
+- **Ask your question**: [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
+- **NAACL page**: [Human-Centered Evaluation of Explanations](https://2022.naacl.org/program/tutorials/#t4)
 
 The NLP community are increasingly interested in providing explanations for NLP models to help people make sense of model behavior and potentially improve human interaction with models. In addition to computational challenges in generating these explanations, evaluations of the generated explanations require human-centered perspectives and approaches. This tutorial will provide an overview of human-centered evaluations of explanations. First, we will give a brief introduction to the psychological foundation of explanations as well as types of NLP model explanations and their corresponding presentation, to provide the necessary background. We will then present a taxonomy of human-centered evaluation of explanations and dive into depth in the two categories: 1) evaluation with human-subjects studies; 2) evaluation based on human-annotated explanations. We will conclude by discussing future directions.
 
