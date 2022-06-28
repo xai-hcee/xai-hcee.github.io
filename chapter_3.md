@@ -16,6 +16,10 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 ### Part 3: Use Cases of Application-Grounded Evaluation with Human Subjects
 <iframe width="960" height="569" src="https://www.youtube.com/embed/TpuvPEDKcWY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+## Part 4: Challenges of Application-Grounded Evaluation with Human Subjects
+<iframe width="960" height="569" src="https://www.youtube.com/embed/koSnQ8bFUc0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 ## Slides
 <iframe src="https://docs.google.com/presentation/d/1tDXNcEu4OZMlsUEMDcJFuH0IYNC8kb3TP-C4YCpb958/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

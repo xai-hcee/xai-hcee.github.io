@@ -6,6 +6,7 @@ permalink: /chapter_4.html
 Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
 
 ## Video
+<iframe width="960" height="569" src="https://www.youtube.com/embed/JVrTXEqxbso" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Slides
 <iframe src="https://docs.google.com/presentation/d/1uJjYX109en3m3qOuEjVnU6VPzQ0IKuSCxC0vCgqXRpE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
