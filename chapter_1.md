@@ -3,9 +3,10 @@ title: NAACL 22 Tutorial on Human-centered Evaluations of Explanations
 layout: page
 permalink: /chapter_1.html
 ---
+## Psychological foundations of explanations
+
 Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
 
-## Video
 <iframe width="960" height="569" src="https://www.youtube.com/embed/cDEiP5thw4E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Slides

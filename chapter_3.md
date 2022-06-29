@@ -3,9 +3,9 @@ title: NAACL 22 Tutorial on Human-centered Evaluations of Explanations
 layout: page
 permalink: /chapter_3.html
 ---
-Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
+## Application-grounded human-subject evaluations
 
-## Video
+Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
 
 ### Part 1: Application-Grounded Evaluation of Explanations
 <iframe width="960" height="569" src="https://www.youtube.com/embed/KXUd_ETGrDw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

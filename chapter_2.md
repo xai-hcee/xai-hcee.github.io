@@ -3,9 +3,9 @@ title: NAACL 22 Tutorial on Human-centered Evaluations of Explanations
 layout: page
 permalink: /chapter_2.html
 ---
-Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
+## Explanation Methods for NLP
 
-## Video
+Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQq8cDeXyxQYFP1WnfGqB).
 
 ### Part 1: Calibration
 <iframe width="960" height="569" src="https://www.youtube.com/embed/-OOJK9StLCk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
