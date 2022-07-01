@@ -13,6 +13,10 @@ Ask your questions, and vote on others, on [sli.do](https://app.sli.do/event/awQ
 ### Part 2: How Compare Explanations of NLP
 <iframe width="960" height="569" src="https://www.youtube.com/embed/6LAFW9kDoAs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### Part 3: Beyond Similarity
+<iframe width="960" height="569" src="https://www.youtube.com/embed/NTjkbA18vRo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 ## Slides
 <iframe src="https://docs.google.com/presentation/d/1uJjYX109en3m3qOuEjVnU6VPzQ0IKuSCxC0vCgqXRpE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
